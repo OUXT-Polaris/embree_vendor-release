@@ -2,6 +2,11 @@
 Changelog for package embree_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.8 (2021-07-12)
+------------------
+* fix embree version
+* Contributors: Masaya Kataoka
+
 0.0.7 (2021-07-12)
 ------------------
 * remove test lines
