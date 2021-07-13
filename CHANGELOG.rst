@@ -2,6 +2,9 @@
 Changelog for package embree_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.9 (2021-07-13)
+------------------
+
 0.8.1 (2021-07-13)
 ------------------
 * add pkg-config to the depends
