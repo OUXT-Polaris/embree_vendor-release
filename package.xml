@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>embree_vendor</name>
-  <version>0.0.8</version>
+  <version>0.8.1</version>
   <description>vendor packages for intel raytracing kernel library</description>
   <maintainer email="ms.kataoka@gmail.com">masaya</maintainer>
   <license>Apache 2.0</license>
@@ -10,6 +10,7 @@
   <buildtool_depend>ament_cmake</buildtool_depend>
   <depend>libglfw3-dev</depend>
   <depend>tbb</depend>
+  <depend>pkg-config</depend>
 
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
