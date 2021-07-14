@@ -1,3 +1,26 @@
+## embree_vendor (foxy) - 0.1.0-1
+
+The packages in the `embree_vendor` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --rosdistro foxy --track foxy embree_vendor` on `Wed, 14 Jul 2021 06:57:49 -0000`
+
+The `embree_vendor` package was released.
+
+Version of package(s) in repository `embree_vendor`:
+
+- upstream repository: https://github.com/OUXT-Polaris/embree_vendor.git
+- release repository: https://github.com/OUXT-Polaris/embree_vendor-release.git
+- rosdistro version: `0.0.9-1`
+- old version: `0.0.9-1`
+- new version: `0.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## embree_vendor (foxy) - 0.0.9-1
 
 The packages in the `embree_vendor` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --rosdistro foxy --track foxy embree_vendor` on `Tue, 13 Jul 2021 06:47:32 -0000`
